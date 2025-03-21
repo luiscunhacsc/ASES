@@ -1,6 +1,6 @@
 # Fundamentos de Análise de Sistemas e Engenharia de Software
 
-Bem-vindo ao repositório do manual **"Fundamentos de Análise de Sistemas e Engenharia de Software"**! Este manual é um guia essencial concebido para estudantes do ensino superior e para todos os que desejam explorar os princípios e práticas fundamentais da Análise de Sistemas e da Engenharia de Software. Escrito por Luís Simões da Cunha, este recurso pedagógico foi lançado em 2025 e está disponível aqui para apoiar a tua aprendizagem e crescimento profissional.
+Bem-vind@ ao repositório do manual **"Fundamentos de Análise de Sistemas e Engenharia de Software"**! Este manual é um guia essencial concebido para estudantes do ensino superior e para todos os que desejam explorar os princípios e práticas fundamentais da Análise de Sistemas e da Engenharia de Software. Escrito por Luís Simões da Cunha, este recurso pedagógico foi lançado em 2025 e está disponível aqui para apoiar a tua aprendizagem e crescimento profissional.
 
 ## Sobre o Manual
 
